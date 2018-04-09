@@ -1,0 +1,41 @@
+/* testing */
+
+header {
+  padding: 12px;
+  background-color: mediumaquamarine;
+}
+
+.title {
+  font-size: 40px;
+  font-family: "Times New Roman", serif;
+  font-weight: 600;
+}
+
+body {
+  font-size: 13px;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+article{
+  margin: 15px;
+  width: 65%;
+  float: left;
+}
+
+h2 {
+  font-family: "Times New Roman", serif;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: "Times New Roman", serif;
+  font-size: 20px;
+}
+
+img {
+  float: right;
+  margin-right: 5px;
+  width: 28%;
+}     
